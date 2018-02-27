@@ -1,0 +1,30 @@
+turn on TV---Request---http://192.168.1.101/REMOTE=power
+turn off TV---Request---http://192.168.1.101/REMOTE=power
+turn up Volume---Request---http://192.168.1.101/REMOTE=volumeup
+turn down Volume---Request---http://192.168.1.101/REMOTE=volumedown
+mute TV---Request---http://192.168.1.101/REMOTE=mute
+go to channel 1---Request---http://192.168.1.101/REMOTE=1
+go to channel 2---Request---http://192.168.1.101/REMOTE=2
+go to channel 3---Request---http://192.168.1.101/REMOTE=3
+go to channel 4---Request---http://192.168.1.101/REMOTE=4
+go to channel 5---Request---http://192.168.1.101/REMOTE=5
+go to channel 6---Request---http://192.168.1.101/REMOTE=6
+go to channel 7---Request---http://192.168.1.101/REMOTE=7
+go to channel 8---Request---http://192.168.1.101/REMOTE=8
+go to channel 9---Request---http://192.168.1.101/REMOTE=9
+go to channel 0---Request---http://192.168.1.101/REMOTE=0
+bbc radio 1---cmd---cd C:\Program Files\Mozilla Firefox\ && firefox.exe -new-window "https://www.bbc.co.uk/radio/player/bbc_radio_one"
+mute pc---cmd---nircmd.exe mutesysvolume 1 
+unmute pc---cmd---nircmd.exe mutesysvolume 0
+volume full---cmd---nircmd.exe setsysvolume 65535 
+increase volume 10%---cmd---nircmd.exe changesysvolume 6500 
+decrease volume 10%---cmd---nircmd.exe changesysvolume -6500 
+increase volume 20%---cmd---nircmd.exe changesysvolume 13000 
+decrease volume 20%---cmd---nircmd.exe changesysvolume -13000 
+increase volume 30%---cmd---nircmd.exe changesysvolume 19500 
+decrease volume 30%---cmd---nircmd.exe changesysvolume -19500 
+increase volume 50%---cmd---nircmd.exe changesysvolume 32000
+decrease volume 50%---cmd---nircmd.exe changesysvolume -32000 
+open cd rom---cmd---nircmd.exe cdrom open E: 
+close cd rom---cmd---nircmd.exe cdrom close E:
+search for---cmdWithArguments---cd C:\Program Files\Mozilla Firefox\ && firefox.exe -new-window "https://www.google.com/search?q="

@@ -1,0 +1,917 @@
+14/01/2018 16:36:42#hello Mike how are you
+14/01/2018 16:36:42#hello Mike. How are you
+14/01/2018 16:36:42#hello Mike how are U
+14/01/2018 16:36:42#&
+14/01/2018 16:36:50#hey when I grab a bite or something
+14/01/2018 16:36:50#hey want to grab a bite or something
+14/01/2018 16:36:50#hey want to go grab a bite or something
+14/01/2018 16:36:50#hey wanna grab a bite or something
+14/01/2018 16:36:50#hey when I go grab a bite or something
+14/01/2018 16:36:50#&
+14/01/2018 19:49:31 # turn off TV
+14/01/2018 19:49:31 # turn off the TV
+14/01/2018 19:49:31 # turn off t v
+14/01/2018 19:49:31 # &
+14/01/2018 19:56:05 # turn off TV
+14/01/2018 19:56:05 # turn off the TV
+14/01/2018 19:56:05 # turn off t v
+14/01/2018 19:56:05 # &
+14/01/2018 19:57:31 # turn off TV
+14/01/2018 19:57:31 # turn off the TV
+14/01/2018 19:57:31 # turn off t v
+14/01/2018 19:57:31 # &
+14/01/2018 19:59:59 # turn off TV
+14/01/2018 19:59:59 # turn off the TV
+14/01/2018 19:59:59 # turn off t v
+14/01/2018 19:59:59 # &
+14/01/2018 20:02:13 # hello friend
+14/01/2018 20:02:13 # Hello friends
+14/01/2018 20:02:13 # &
+14/01/2018 20:02:53 # disconnects from server
+14/01/2018 20:02:53 # disconnect from server
+14/01/2018 20:02:53 # disconnects from Survivor
+14/01/2018 20:02:53 # I disconnect from server
+14/01/2018 20:02:53 # disconnect from Survivor
+14/01/2018 20:02:53 # &
+14/01/2018 20:03:09 # turn off TV
+14/01/2018 20:03:09 # turn off the TV
+14/01/2018 20:03:09 # turn of TV
+14/01/2018 20:03:09 # turn off t v
+14/01/2018 20:03:09 # turn up TV
+14/01/2018 20:03:09 # &
+14/01/2018 20:08:32 # turn off the TV
+14/01/2018 20:08:32 # &
+14/01/2018 20:08:39 # turn on TV
+14/01/2018 20:08:39 # turn off TV
+14/01/2018 20:08:39 # turn on the TV
+14/01/2018 20:08:39 # turn off the TV
+14/01/2018 20:08:39 # turn up TV
+14/01/2018 20:08:39 # &
+14/01/2018 20:13:15 # turn off the TV
+14/01/2018 20:13:15 # &
+14/01/2018 20:13:27 # turn off TV
+14/01/2018 20:13:27 # turn off the TV
+14/01/2018 20:13:27 # turn off my TV
+14/01/2018 20:13:27 # turn off t v
+14/01/2018 20:13:27 # turn off of TV
+14/01/2018 20:13:27 # &
+14/01/2018 20:14:57 # turn off TV
+14/01/2018 20:14:57 # turn off the TV
+14/01/2018 20:14:57 # turn off my TV
+14/01/2018 20:14:57 # turn off t v
+14/01/2018 20:14:57 # &
+14/01/2018 20:15:46 # turn off TV
+14/01/2018 20:15:46 # turn off the TV
+14/01/2018 20:15:46 # turn off my TV
+14/01/2018 20:15:46 # turn off t v
+14/01/2018 20:15:46 # &
+14/01/2018 20:20:58 # turn off TV
+14/01/2018 20:20:58 # turn off the TV
+14/01/2018 20:20:58 # turn of TV
+14/01/2018 20:20:58 # turn off my TV
+14/01/2018 20:20:58 # turn off t v
+14/01/2018 20:20:58 # &
+14/01/2018 20:23:04 # turn on TV
+14/01/2018 20:23:04 # turn on the TV
+14/01/2018 20:23:04 # turning on TV
+14/01/2018 20:23:04 # turn on MTV
+14/01/2018 20:23:04 # turn on t v
+14/01/2018 20:23:04 # &
+14/01/2018 20:41:22 # turn off TV
+14/01/2018 20:41:22 # turn off the TV
+14/01/2018 20:41:22 # turn off my TV
+14/01/2018 20:41:22 # turn off t v
+14/01/2018 20:41:22 # turn off TV show
+14/01/2018 20:41:22 # &
+14/01/2018 20:42:01 # turn off TV
+14/01/2018 20:42:01 # turn off the TV
+14/01/2018 20:42:01 # turn off my TV
+14/01/2018 20:42:01 # turn off t v
+14/01/2018 20:42:01 # turn off TV show
+14/01/2018 20:42:01 # &
+14/01/2018 20:47:42 # turn on TV
+14/01/2018 20:47:42 # turn on the TV
+14/01/2018 20:47:42 # turn on on TV
+14/01/2018 20:47:42 # turn on t v
+14/01/2018 20:47:42 # &
+14/01/2018 20:52:39 # turn on TV
+14/01/2018 20:52:39 # turn on the TV
+14/01/2018 20:52:39 # turn on on TV
+14/01/2018 20:52:39 # turn on t v
+14/01/2018 20:52:39 # &
+14/01/2018 21:07:25 # turn on TV
+14/01/2018 21:07:25 # turn on the TV
+14/01/2018 21:07:25 # turn on on TV
+14/01/2018 21:07:25 # turn on t v
+14/01/2018 21:07:25 # &
+14/01/2018 21:07:32 # turn off TV
+14/01/2018 21:07:32 # turn off the TV
+14/01/2018 21:07:32 # turn off t v
+14/01/2018 21:07:32 # &
+14/01/2018 21:09:38 # turn on TV
+14/01/2018 21:09:38 # turn on the TV
+14/01/2018 21:09:38 # turning on TV
+14/01/2018 21:09:38 # turn down TV
+14/01/2018 21:09:38 # turn on on TV
+14/01/2018 21:09:38 # &
+14/01/2018 21:10:44 # disconnects from server
+14/01/2018 21:10:44 # I disconnect from server
+14/01/2018 21:10:45 # disconnect from Survivor
+14/01/2018 21:10:45 # &
+14/01/2018 21:11:08 # hello
+14/01/2018 21:11:08 # hello hello
+14/01/2018 21:11:08 # &
+14/01/2018 21:16:44 # turn on TV
+14/01/2018 21:16:44 # turn on the TV
+14/01/2018 21:16:44 # Channel TV
+14/01/2018 21:16:44 # please turn on TV
+14/01/2018 21:16:44 # turn on MTV
+14/01/2018 21:16:44 # &
+14/01/2018 21:17:34 # turn on TV
+14/01/2018 21:17:34 # turn on the TV
+14/01/2018 21:17:34 # turn on MTV
+14/01/2018 21:17:34 # turn on on TV
+14/01/2018 21:17:34 # turn on t v
+14/01/2018 21:17:34 # &
+14/01/2018 21:18:45 # turn on TV
+14/01/2018 21:18:45 # turn on the TV
+14/01/2018 21:18:45 # turn on on TV
+14/01/2018 21:18:45 # turn on t v
+14/01/2018 21:18:45 # I turn on TV
+14/01/2018 21:18:45 # &
+14/01/2018 21:20:19 # turn on TV
+14/01/2018 21:20:19 # turn on the TV
+14/01/2018 21:20:19 # turn on TV.
+14/01/2018 21:20:19 # turn on on TV
+14/01/2018 21:20:19 # turn on t v
+14/01/2018 21:20:19 # &
+14/01/2018 21:21:32 # turn on TV
+14/01/2018 21:21:32 # turn on the TV
+14/01/2018 21:21:32 # turn on TV.
+14/01/2018 21:21:32 # turn on on TV
+14/01/2018 21:21:32 # turn on t v
+14/01/2018 21:21:32 # &
+14/01/2018 21:23:35 # turn on TV
+14/01/2018 21:23:35 # turn on the TV
+14/01/2018 21:23:35 # turn on on TV
+14/01/2018 21:23:35 # turn on t v
+14/01/2018 21:23:35 # &
+14/01/2018 21:24:15 # turn on TV
+14/01/2018 21:24:15 # turn on the TV
+14/01/2018 21:24:15 # turn on on TV
+14/01/2018 21:24:15 # turn on t v
+14/01/2018 21:24:15 # &
+14/01/2018 21:26:21 # turn on TV
+14/01/2018 21:26:21 # turn on the TV
+14/01/2018 21:26:21 # turn on on TV
+14/01/2018 21:26:21 # turn on my TV
+14/01/2018 21:26:21 # turn on t v
+14/01/2018 21:26:21 # &
+14/01/2018 21:27:05 # turn on TV
+14/01/2018 21:27:05 # turn on the TV
+14/01/2018 21:27:05 # turn on on TV
+14/01/2018 21:27:05 # turn on t v
+14/01/2018 21:27:05 # &
+14/01/2018 21:27:32 # turn on TV
+14/01/2018 21:27:32 # turn on the TV
+14/01/2018 21:27:32 # turn on t v
+14/01/2018 21:27:32 # &
+14/01/2018 21:30:24 # turn on the TV
+14/01/2018 21:30:24 # turn on TV
+14/01/2018 21:30:24 # turn on MTV
+14/01/2018 21:30:24 # turn on t v
+14/01/2018 21:30:24 # turn on the TV show
+14/01/2018 21:30:24 # &
+14/01/2018 21:33:57 # turn on TV
+14/01/2018 21:33:57 # turn on the TV
+14/01/2018 21:33:57 # turn on on TV
+14/01/2018 21:33:57 # turn on t v
+14/01/2018 21:33:57 # &
+14/01/2018 21:34:54 # turn on TV
+14/01/2018 21:34:54 # turn on TV.
+14/01/2018 21:34:54 # turn on the TV
+14/01/2018 21:34:54 # turn on on TV
+14/01/2018 21:34:54 # turn on t v
+14/01/2018 21:34:54 # &
+14/01/2018 21:35:45 # turn on TV
+14/01/2018 21:35:45 # turn on TV.
+14/01/2018 21:35:45 # turn on the TV
+14/01/2018 21:35:45 # turn on on TV
+14/01/2018 21:35:45 # turn on t v
+14/01/2018 21:35:45 # &
+14/01/2018 21:36:53 # turn on TV
+14/01/2018 21:36:53 # turn on TV.
+14/01/2018 21:36:53 # turn on the TV
+14/01/2018 21:36:53 # turn on TV show
+14/01/2018 21:36:53 # turn on on TV
+14/01/2018 21:36:53 # &
+14/01/2018 21:43:21 # turn on TV
+14/01/2018 21:43:21 # turn on the TV
+14/01/2018 21:43:21 # Channel TV
+14/01/2018 21:43:21 # turn on t v
+14/01/2018 21:43:21 # can on TV
+14/01/2018 21:43:21 # &
+14/01/2018 21:45:19 # turn on TV
+14/01/2018 21:45:19 # turn on the TV
+14/01/2018 21:45:19 # turn on on TV
+14/01/2018 21:45:19 # turn on t v
+14/01/2018 21:45:19 # turn on MTV
+14/01/2018 21:45:19 # &
+14/01/2018 21:52:42 # turn on TV
+14/01/2018 21:52:42 # turn on the TV
+14/01/2018 21:52:42 # Turn Me On TV
+14/01/2018 21:52:42 # turn on MTV
+14/01/2018 21:52:42 # turn down TV
+14/01/2018 21:52:42 # &
+14/01/2018 21:57:14 # turn on TV
+14/01/2018 21:57:14 # turn on the TV
+14/01/2018 21:57:14 # turn on on TV
+14/01/2018 21:57:14 # turn on t v
+14/01/2018 21:57:14 # &
+14/01/2018 22:05:26 # turn on TV
+14/01/2018 22:05:26 # turn on the TV
+14/01/2018 22:05:26 # turn on room TV
+14/01/2018 22:05:26 # turn off TV
+14/01/2018 22:05:26 # turn on Fire TV
+14/01/2018 22:05:26 # &
+14/01/2018 22:06:59 # turn on TV
+14/01/2018 22:06:59 # turn on the TV
+14/01/2018 22:06:59 # turn on on TV
+14/01/2018 22:06:59 # turn on t v
+14/01/2018 22:06:59 # &
+14/01/2018 22:13:12 # turn on TV
+14/01/2018 22:13:12 # turn on the TV
+14/01/2018 22:13:12 # turn on on TV
+14/01/2018 22:13:12 # turn on t v
+14/01/2018 22:13:12 # &
+14/01/2018 22:18:54 # turn on TV
+14/01/2018 22:18:54 # turn down TV
+14/01/2018 22:18:54 # turn on on TV
+14/01/2018 22:18:54 # turn on the TV
+14/01/2018 22:18:54 # turn on t v
+14/01/2018 22:18:54 # &
+14/01/2018 22:20:13 # turn on TV
+14/01/2018 22:20:13 # turn on on TV
+14/01/2018 22:20:13 # turn on t v
+14/01/2018 22:20:13 # &
+14/01/2018 22:21:11 # you are stupid
+14/01/2018 22:21:11 # you are so stupid
+14/01/2018 22:21:11 # you are Stoopid
+14/01/2018 22:21:11 # you are a stupid
+14/01/2018 22:21:11 # you are stupid.
+14/01/2018 22:21:11 # &
+14/01/2018 22:21:23 # hello motherfuker
+14/01/2018 22:21:23 # hello mother f*****
+14/01/2018 22:21:23 # hello mother fuker
+14/01/2018 22:21:23 # hello m***********
+14/01/2018 22:21:23 # hello Mother fuka
+14/01/2018 22:21:23 # &
+14/01/2018 22:21:32 # MellowHigh
+14/01/2018 22:21:32 # milu High
+14/01/2018 22:21:32 # Mellow High
+14/01/2018 22:21:32 # milu hi
+14/01/2018 22:21:32 # Malu High
+14/01/2018 22:21:32 # &
+14/01/2018 22:21:41 # hello Mello
+14/01/2018 22:21:41 # hello mellow
+14/01/2018 22:21:41 # hello Mary Lou
+14/01/2018 22:21:41 # hello Melo
+14/01/2018 22:21:41 # hello Malou
+14/01/2018 22:21:41 # &
+14/01/2018 22:24:06 # turn off TV
+14/01/2018 22:24:06 # turn off the TV
+14/01/2018 22:24:06 # turn off t v
+14/01/2018 22:24:06 # turn off of TV
+14/01/2018 22:24:06 # &
+14/01/2018 22:25:50 # turn on TV
+14/01/2018 22:25:50 # can I turn on TV
+14/01/2018 22:25:50 # turn on the TV
+14/01/2018 22:25:50 # can I earn on TV
+14/01/2018 22:25:50 # turn on on TV
+14/01/2018 22:25:50 # &
+14/01/2018 22:26:33 # turn on TV
+14/01/2018 22:26:33 # turn on the TV
+14/01/2018 22:26:33 # turn on on TV
+14/01/2018 22:26:33 # turn on t v
+14/01/2018 22:26:33 # &
+14/01/2018 22:27:11 # turn off TV
+14/01/2018 22:27:11 # turn off the TV
+14/01/2018 22:27:11 # turn off t v
+14/01/2018 22:27:11 # turn off of TV
+14/01/2018 22:27:11 # &
+14/01/2018 22:28:05 # turn on TV
+14/01/2018 22:28:05 # turn on the TV
+14/01/2018 22:28:05 # turn on TV.
+14/01/2018 22:28:05 # turn on on TV
+14/01/2018 22:28:05 # turn down TV
+14/01/2018 22:28:05 # &
+14/01/2018 22:30:56 # turn off TV
+14/01/2018 22:30:56 # turn off the TV
+14/01/2018 22:30:56 # turn off t v
+14/01/2018 22:30:56 # &
+14/01/2018 22:41:02 # turn off TV
+14/01/2018 22:41:02 # turn off the TV
+14/01/2018 22:41:02 # turn off t v
+14/01/2018 22:41:02 # turn turn off TV
+14/01/2018 22:41:02 # &
+14/01/2018 22:41:38 # turn on TV
+14/01/2018 22:41:38 # turn on on TV
+14/01/2018 22:41:38 # turn on the TV
+14/01/2018 22:41:38 # turn on t v
+14/01/2018 22:41:38 # &
+14/01/2018 22:49:35 # turn off TV
+14/01/2018 22:49:35 # turn off the TV
+14/01/2018 22:49:35 # turn off my TV
+14/01/2018 22:49:35 # turn off t v
+14/01/2018 22:49:35 # &
+14/01/2018 22:50:32 # turn on TV
+14/01/2018 22:50:32 # turn on the TV
+14/01/2018 22:50:32 # turn on on TV
+14/01/2018 22:50:32 # turn on t v
+14/01/2018 22:50:32 # &
+15/01/2018 13:26:10 # turn off TV
+15/01/2018 13:26:10 # turn off the TV
+15/01/2018 13:26:10 # turn off t v
+15/01/2018 13:26:10 # &
+15/01/2018 13:31:35 # turn off TV
+15/01/2018 13:31:35 # turn off the TV
+15/01/2018 13:31:35 # turn off t v
+15/01/2018 13:31:35 # turn turn off TV
+15/01/2018 13:31:35 # &
+15/01/2018 14:44:19 # turn off TV
+15/01/2018 14:44:19 # turn off the TV
+15/01/2018 14:44:19 # turn off t v
+15/01/2018 14:44:19 # &
+15/01/2018 14:45:19 # turn off TV
+15/01/2018 14:45:19 # turn off the TV
+15/01/2018 14:45:19 # turn off t v
+15/01/2018 14:45:19 # turn turn off TV
+15/01/2018 14:45:19 # &
+15/01/2018 14:46:33 # turn off TV
+15/01/2018 14:46:33 # turn off the TV
+15/01/2018 14:46:33 # turn off t v
+15/01/2018 14:46:33 # turn turn off TV
+15/01/2018 14:46:33 # &
+15/01/2018 14:49:01 # turn on TV
+15/01/2018 14:49:02 # turn on the TV
+15/01/2018 14:49:02 # turn on on TV
+15/01/2018 14:49:02 # turn on t v
+15/01/2018 14:49:02 # turn down TV
+15/01/2018 14:49:02 # &
+15/01/2018 14:51:08 # disconnect from Survivor
+15/01/2018 14:51:26 # turn on TV
+15/01/2018 14:51:26 # turn on the TV
+15/01/2018 14:51:26 # turn on on TV
+15/01/2018 14:51:26 # turn on t v
+15/01/2018 14:51:26 # &
+15/01/2018 14:51:55 # turn off TV
+15/01/2018 14:51:55 # turn off the TV
+15/01/2018 14:51:55 # turn off t v
+15/01/2018 14:51:55 # &
+15/01/2018 14:52:21 # turn on TV
+15/01/2018 14:52:21 # turn on the TV
+15/01/2018 14:52:21 # turn on on TV
+15/01/2018 14:52:21 # turn on t v
+15/01/2018 14:52:21 # &
+15/01/2018 15:18:17 # go to Channel 1
+15/01/2018 15:18:17 # go to Channel One
+15/01/2018 15:18:17 # go to China One
+15/01/2018 15:18:17 # go to Chandler one
+15/01/2018 15:18:17 # go to China 1
+15/01/2018 15:18:17 # &
+15/01/2018 16:00:49 # turn TV off
+15/01/2018 16:00:49 # turn the TV off
+15/01/2018 16:00:49 # &
+15/01/2018 16:00:54 # turn TV on
+15/01/2018 16:00:54 # turn the TV on
+15/01/2018 16:00:54 # &
+15/01/2018 16:01:46 # turn on TV
+15/01/2018 16:01:46 # turn on the TV
+15/01/2018 16:01:46 # turn on t v
+15/01/2018 16:01:46 # turn turn on TV
+15/01/2018 16:01:46 # &
+15/01/2018 16:01:50 # turn off TV
+15/01/2018 16:01:50 # turn off the TV
+15/01/2018 16:01:50 # turn off t v
+15/01/2018 16:01:50 # &
+15/01/2018 19:52:32 # turn volume up
+15/01/2018 19:52:32 # turn the volume up
+15/01/2018 19:52:32 # turn volume app
+15/01/2018 19:52:32 # &
+15/01/2018 19:58:29 # turn volume up
+15/01/2018 19:58:29 # turn the volume up
+15/01/2018 19:58:29 # turn volume app
+15/01/2018 19:58:29 # &
+15/01/2018 20:00:34 # turn volume up
+15/01/2018 20:00:34 # turn volume up.
+15/01/2018 20:00:34 # turn volume on
+15/01/2018 20:00:34 # turn volume app
+15/01/2018 20:00:34 # turn the volume up
+15/01/2018 20:00:34 # &
+15/01/2018 20:00:59 # turn TV off
+15/01/2018 20:00:59 # turn TV on
+15/01/2018 20:00:59 # &
+15/01/2018 20:01:54 # turn TV off
+15/01/2018 20:01:54 # turn TV on
+15/01/2018 20:01:54 # &
+15/01/2018 20:06:57 # turn volume up
+15/01/2018 20:06:57 # turn the volume up
+15/01/2018 20:06:57 # &
+15/01/2018 20:14:41 # turn off TV
+15/01/2018 20:14:41 # will you turn off TV
+15/01/2018 20:14:41 # they are turn off TV
+15/01/2018 20:14:41 # turn off the TV
+15/01/2018 20:14:41 # New York turn off TV
+15/01/2018 20:14:41 # &
+15/01/2018 20:17:12 # turn on TV
+15/01/2018 20:17:12 # turn on the TV
+15/01/2018 20:17:12 # turn on TV.
+15/01/2018 20:17:12 # you turn on TV
+15/01/2018 20:17:12 # turn on on TV
+15/01/2018 20:17:12 # &
+15/01/2018 20:20:12 # turn volume up
+15/01/2018 20:20:12 # turn the volume up
+15/01/2018 20:20:12 # &
+15/01/2018 20:20:36 # turn off TV
+15/01/2018 20:20:36 # turn off the TV
+15/01/2018 20:20:36 # turn off t v
+15/01/2018 20:20:36 # &
+15/01/2018 20:25:26 # turn off TV
+15/01/2018 20:25:26 # turn off the TV
+15/01/2018 20:25:26 # turn off my TV
+15/01/2018 20:25:26 # turn off t v
+15/01/2018 20:25:26 # &
+15/01/2018 20:29:39 # turn TV off
+15/01/2018 20:29:39 # turn TV on
+15/01/2018 20:29:39 # turn TV show
+15/01/2018 20:29:39 # turn TV
+15/01/2018 20:29:39 # turn TV on.
+15/01/2018 20:29:39 # &
+15/01/2018 20:38:07 # turn off TV
+15/01/2018 20:38:07 # turn off the TV
+15/01/2018 20:38:07 # turn off t v
+15/01/2018 20:38:07 # &
+15/01/2018 20:39:14 # turn off the TV and go to the bathroom
+15/01/2018 20:39:14 # turn off the TV and then go to the bathroom
+15/01/2018 20:39:14 # turn off the TV and go to the bath room
+15/01/2018 20:39:14 # turn off the TV in go to the bathroom
+15/01/2018 20:39:14 # turn off the TV in and go to the bathroom
+15/01/2018 20:39:14 # &
+15/01/2018 20:49:27 # turn off TV
+15/01/2018 20:49:27 # turn off the TV
+15/01/2018 20:49:27 # turn off t v
+15/01/2018 20:49:27 # turn off TV show
+15/01/2018 20:49:27 # turn off of TV
+15/01/2018 20:49:27 # &
+15/01/2018 20:50:02 # turn off TV
+15/01/2018 20:50:02 # turn off the TV
+15/01/2018 20:50:02 # turn off t v
+15/01/2018 20:50:02 # turn off TV show
+15/01/2018 20:50:02 # &
+15/01/2018 20:51:01 # turn off TV
+15/01/2018 20:51:02 # turn off the TV
+15/01/2018 20:51:02 # turn off t v
+15/01/2018 20:51:02 # &
+15/01/2018 20:51:53 # turn off TV
+15/01/2018 20:51:53 # turn off the TV
+15/01/2018 20:51:53 # turn off my TV
+15/01/2018 20:51:53 # turn off t v
+15/01/2018 20:51:53 # turn off of TV
+15/01/2018 20:51:53 # &
+15/01/2018 21:01:27 # turn on TV
+15/01/2018 21:01:27 # turn on the TV
+15/01/2018 21:01:27 # turn on on TV
+15/01/2018 21:01:27 # turn on t v
+15/01/2018 21:01:27 # &
+15/01/2018 21:01:56 # turn on TV
+15/01/2018 21:01:56 # turn on the TV
+15/01/2018 21:01:56 # turn on on TV
+15/01/2018 21:01:56 # turn on t v
+15/01/2018 21:01:56 # turn it on TV
+15/01/2018 21:01:56 # &
+15/01/2018 21:02:52 # turn on TV
+15/01/2018 21:02:52 # turn on the TV
+15/01/2018 21:02:52 # turn on on TV
+15/01/2018 21:02:52 # turn on t v
+15/01/2018 21:02:52 # &
+15/01/2018 21:05:43 # turn on TV
+15/01/2018 21:05:43 # turn on the TV
+15/01/2018 21:05:43 # turn on on TV
+15/01/2018 21:05:43 # turn on t v
+15/01/2018 21:05:43 # &
+15/01/2018 21:06:17 # turn on TV
+15/01/2018 21:06:17 # turn on the TV
+15/01/2018 21:06:17 # turn on on TV
+15/01/2018 21:06:17 # turn on t v
+15/01/2018 21:06:17 # &
+15/01/2018 21:06:59 # turn off TV
+15/01/2018 21:06:59 # turn off the TV
+15/01/2018 21:06:59 # turn off my TV
+15/01/2018 21:06:59 # turn off t v
+15/01/2018 21:06:59 # &
+15/01/2018 21:09:29 # turn off TV
+15/01/2018 21:09:29 # turn off the TV
+15/01/2018 21:09:29 # turn off t v
+15/01/2018 21:09:29 # &
+15/01/2018 21:13:54 # turn off TV
+15/01/2018 21:13:54 # turn off the TV
+15/01/2018 21:13:54 # turn off t v
+15/01/2018 21:13:54 # &
+15/01/2018 21:16:10 # turn on TV
+15/01/2018 21:16:10 # 10 on TV
+15/01/2018 21:16:10 # ten on TV
+15/01/2018 21:16:10 # 10:00 on TV
+15/01/2018 21:16:10 # turn on the TV
+15/01/2018 21:16:10 # &
+15/01/2018 21:25:51 # turn the volume up
+15/01/2018 21:25:51 # turn turn the volume up
+15/01/2018 21:25:51 # &
+15/01/2018 21:27:00 # turn volume up
+15/01/2018 21:27:00 # turn the volume up
+15/01/2018 21:27:00 # turn up volume up
+15/01/2018 21:27:00 # turn your volume up
+15/01/2018 21:27:00 # turn volume app
+15/01/2018 21:27:00 # &
+15/01/2018 21:27:08 # turn volume down and turn volume down
+15/01/2018 21:27:08 # turn volume down on turn volume down
+15/01/2018 21:27:08 # turn volume down one turn volume down
+15/01/2018 21:27:08 # turn volume down in turn volume down
+15/01/2018 21:27:08 # turn volume down button turn volume down
+15/01/2018 21:27:08 # &
+15/01/2018 21:29:45 # turn TV off
+15/01/2018 21:29:45 # turn TV off.
+15/01/2018 21:29:45 # turn TV on
+15/01/2018 21:29:45 # turn TV up
+15/01/2018 21:29:45 # turn TV on.
+15/01/2018 21:29:45 # &
+15/01/2018 21:31:34 # turn volume down and turn the volume up
+15/01/2018 21:31:34 # turn volume down and turn volume up
+15/01/2018 21:31:34 # turn volume down + turn volume up
+15/01/2018 21:31:34 # turn volume down + turn the volume up
+15/01/2018 21:31:34 # turn volume down and turn up volume up
+15/01/2018 21:31:34 # &
+15/01/2018 21:36:07 # turn on TV
+15/01/2018 21:36:07 # turn on the TV
+15/01/2018 21:36:07 # turn on on TV
+15/01/2018 21:36:07 # turn on t v
+15/01/2018 21:36:07 # &
+15/01/2018 21:36:40 # turn on TV and turn off TV
+15/01/2018 21:36:41 # turn on TV and turn off the TV
+15/01/2018 21:36:41 # turn on the TV and turn off TV
+15/01/2018 21:36:41 # turn on TV & turn off TV
+15/01/2018 21:36:41 # turn on the TV and turn off the TV
+15/01/2018 21:36:41 # &
+15/01/2018 21:37:34 # turn on TV and turn the volume up
+15/01/2018 21:37:34 # turn on the TV and turn the volume up
+15/01/2018 21:37:34 # turn on TV in turn the volume up
+15/01/2018 21:37:34 # turn on TV & turn the volume up
+15/01/2018 21:37:34 # turn on TV when turn the volume up
+15/01/2018 21:37:34 # &
+15/01/2018 21:38:50 # turn volume down
+15/01/2018 21:38:50 # turn the volume down
+15/01/2018 21:38:50 # turn down volume down
+15/01/2018 21:38:50 # &
+15/01/2018 21:40:58 # turn the volume up and turn volume down
+15/01/2018 21:40:59 # turn the volume up and turn the volume down
+15/01/2018 21:40:59 # turn the volume up + turn volume down
+15/01/2018 21:40:59 # turn the volume up in turn volume down
+15/01/2018 21:40:59 # turn the volume up and turned volume down
+15/01/2018 21:40:59 # &
+15/01/2018 21:44:01 # turn volume up
+15/01/2018 21:44:01 # turn the volume up
+15/01/2018 21:44:01 # turn up volume up
+15/01/2018 21:44:01 # turn on volume up
+15/01/2018 21:44:01 # turn your volume up
+15/01/2018 21:44:01 # &
+15/01/2018 23:16:38 # turn off TV
+15/01/2018 23:16:38 # turn off the TV
+15/01/2018 23:16:38 # turn off t v
+15/01/2018 23:16:38 # &
+15/01/2018 23:17:33 # turn off TV
+15/01/2018 23:17:33 # turn off the TV
+15/01/2018 23:17:33 # turn off t v
+15/01/2018 23:17:33 # &
+15/01/2018 23:22:05 # turn on TV and turn the volume up
+15/01/2018 23:22:05 # turn on the TV and turn the volume up
+15/01/2018 23:22:05 # turn on TV in turn the volume up
+15/01/2018 23:22:05 # turn on TV on turn the volume up
+15/01/2018 23:22:05 # turn on on TV and turn the volume up
+15/01/2018 23:22:05 # &
+15/01/2018 23:27:28 # turn volume up and turn to go to Channel 5
+15/01/2018 23:27:28 # turn the volume up and turn to go to Channel 5
+15/01/2018 23:27:28 # turn volume up and turned to go to Channel 5
+15/01/2018 23:27:28 # turn volume up and turn into go to Channel 5
+15/01/2018 23:27:28 # turn volume up and 10 to go to Channel 5
+15/01/2018 23:27:28 # &
+15/01/2018 23:28:15 # turn off the TV and turn on the TV
+15/01/2018 23:28:15 # turn off the TV and turned on the TV
+15/01/2018 23:28:15 # turn up the TV and turn on the TV
+15/01/2018 23:28:15 # turn off the TV and turn down the TV
+15/01/2018 23:28:15 # turn off the TV and turn it on the TV
+15/01/2018 23:28:15 # &
+16/01/2018 20:41:38 # turn on TV
+16/01/2018 20:41:38 # turn on the TV
+16/01/2018 20:41:38 # turn on on TV
+16/01/2018 20:41:38 # turn on t v
+16/01/2018 20:41:38 # &
+16/01/2018 20:44:05 # Jeffrey turn on the TV and go to channel 0
+16/01/2018 20:44:05 # Jeffrey turn on the TV and go to Channel Zero
+16/01/2018 20:44:05 # Jeffery turn on the TV and go to channel 0
+16/01/2018 20:44:05 # Jeffery turn on the TV and go to Channel Zero
+16/01/2018 20:44:05 # Geoffrey turn on the TV and go to channel 0
+16/01/2018 20:44:05 # &
+16/01/2018 20:47:37 # Jeffrey turn on the TV and go to Channel 1
+16/01/2018 20:47:37 # Jeffrey turn on the TV and go to Channel One
+16/01/2018 20:47:37 # Jeffery turn on the TV and go to Channel 1
+16/01/2018 20:47:37 # Jeffery turn on the TV and go to Channel One
+16/01/2018 20:47:37 # Geoffrey turn on the TV and go to Channel 1
+16/01/2018 20:47:37 # &
+16/01/2018 20:49:50 # turn on TV
+16/01/2018 20:49:50 # turn on the TV
+16/01/2018 20:49:50 # 10 on TV
+16/01/2018 20:49:50 # Tan on TV
+16/01/2018 20:49:50 # turn on on TV
+16/01/2018 20:49:50 # &
+16/01/2018 20:50:37 # Jeffrey turn off the TV
+16/01/2018 20:50:37 # Geoffrey turn off the TV
+16/01/2018 20:50:37 # Jeffery turn off the TV
+16/01/2018 20:50:37 # Jeffrey Channel 4 TV
+16/01/2018 20:50:37 # Jeffrey channel for TV
+16/01/2018 20:50:37 # &
+16/01/2018 20:52:05 # Jeffrey turn on the TV and then go to Channel 1
+16/01/2018 20:52:05 # Jeffrey turn on the TV and then go to Channel One
+16/01/2018 20:52:05 # Jeffrey turn on the TV and go to Channel 1
+16/01/2018 20:52:05 # Jeffrey turn on the TV and go to Channel One
+16/01/2018 20:52:05 # Jeffrey turn on the TV and it go to Channel 1
+16/01/2018 20:52:05 # &
+16/01/2018 20:53:07 # turn on TV and go to channel 0
+16/01/2018 20:53:07 # turn on the TV and go to channel 0
+16/01/2018 20:53:07 # turn on TV and go to Channel Zero
+16/01/2018 20:53:07 # turn on TV to go to channel 0
+16/01/2018 20:53:07 # turn on the TV and go to Channel Zero
+16/01/2018 20:53:07 # &
+16/01/2018 20:54:00 # turn on TV and go to Channel 1
+16/01/2018 20:54:00 # turn on TV and go to Channel One
+16/01/2018 20:54:00 # turn on the TV and go to Channel 1
+16/01/2018 20:54:00 # turn on the TV and go to Channel One
+16/01/2018 20:54:00 # turn on TV and go to China One
+16/01/2018 20:54:00 # &
+16/01/2018 20:54:43 # turn on TV
+16/01/2018 20:54:43 # 10 on TV
+16/01/2018 20:54:43 # ten on TV
+16/01/2018 20:54:43 # 10:00 on TV
+16/01/2018 20:54:43 # Tan on TV
+16/01/2018 20:54:43 # &
+16/01/2018 20:55:10 # go to Channel 1
+16/01/2018 20:55:10 # go to Channel One
+16/01/2018 20:55:10 # go to China One
+16/01/2018 20:55:10 # go to Channel 100
+16/01/2018 20:55:10 # go to China 1
+16/01/2018 20:55:10 # &
+16/01/2018 20:55:18 # go to channel 6
+16/01/2018 20:55:18 # go to channel six
+16/01/2018 20:55:18 # go to Channel 6 News
+16/01/2018 20:55:18 # I go to channel 6
+16/01/2018 20:55:18 # go-to Channel 6
+16/01/2018 20:55:18 # &
+16/01/2018 20:56:19 # turn off TV
+16/01/2018 20:56:19 # turn off the TV
+16/01/2018 20:56:19 # turn off t v
+16/01/2018 20:56:19 # &
+16/01/2018 20:58:04 # Jeffrey turn on the TV
+16/01/2018 20:58:04 # Jeffery turn on the TV
+16/01/2018 20:58:04 # Geoffrey turn on the TV
+16/01/2018 20:58:04 # Jeffree turn on the TV
+16/01/2018 20:58:04 # jeffry turn on the TV
+16/01/2018 20:58:04 # &
+16/01/2018 20:58:32 # turn off the TV
+16/01/2018 20:58:32 # &
+16/01/2018 20:59:04 # Jeffrey please turn on the TV
+16/01/2018 20:59:04 # get free please turn on the TV
+16/01/2018 20:59:04 # Geoffrey please turn on the TV
+16/01/2018 20:59:04 # Jeffery please turn on the TV
+16/01/2018 20:59:04 # Jeffree please turn on the TV
+16/01/2018 20:59:04 # &
+16/01/2018 20:59:28 # Jeffrey you mother f*****
+16/01/2018 20:59:28 # Jeffrey you m***********
+16/01/2018 20:59:28 # Geoffrey you mother f*****
+16/01/2018 20:59:28 # Jeffery you m***********
+16/01/2018 20:59:28 # Geoffrey you m***********
+16/01/2018 20:59:28 # &
+16/01/2018 20:59:38 # Jeffrey you mother f***** turn off the TV now
+16/01/2018 20:59:38 # Jeffrey you m*********** turn off the TV now
+16/01/2018 20:59:38 # Jeffrey you motherfuker turn off the TV now
+16/01/2018 20:59:38 # Geoffrey you mother f***** turn off the TV now
+16/01/2018 20:59:38 # Jeffery you mother f***** turn off the TV now
+16/01/2018 20:59:38 # &
+16/01/2018 21:00:06 # go
+16/01/2018 21:00:06 # NGO
+16/01/2018 21:00:06 # go go
+16/01/2018 21:00:06 # geaux
+16/01/2018 21:00:06 # Gogo
+16/01/2018 21:00:06 # &
+16/01/2018 21:00:21 # you mother f***** turn on the TV now
+16/01/2018 21:00:21 # you m*********** turn on the TV now
+16/01/2018 21:00:21 # you mother fukker turn on the TV now
+16/01/2018 21:00:21 # you motherfuker turn on the TV now
+16/01/2018 21:00:21 # you mother fuker turn on the TV now
+16/01/2018 21:00:21 # &
+16/01/2018 21:01:16 # turn the volume up and go to channel 6
+16/01/2018 21:01:17 # turn the volume app and go to channel 6
+16/01/2018 21:01:17 # turn the volume up + go to channel 6
+16/01/2018 21:01:17 # turn the volume up and go to channel six
+16/01/2018 21:01:17 # turn the volume app and go to channel six
+16/01/2018 21:01:17 # &
+16/01/2018 21:04:34 # turn off the TV
+16/01/2018 21:04:34 # 10 off the TV
+16/01/2018 21:04:34 # turn up the TV
+16/01/2018 21:04:34 # &
+16/01/2018 21:30:23 # turn on TV
+16/01/2018 21:30:23 # turn on the TV
+16/01/2018 21:30:23 # turn down TV
+16/01/2018 21:30:23 # turn on on TV
+16/01/2018 21:30:23 # turn on t v
+16/01/2018 21:30:23 # &
+16/01/2018 21:31:20 # go to Channel 1
+16/01/2018 21:31:20 # go to China One
+16/01/2018 21:31:20 # go to Channel One
+16/01/2018 21:31:20 # go to China 1
+16/01/2018 21:31:20 # go to China won
+16/01/2018 21:31:20 # &
+16/01/2018 21:32:13 # go to Channel 1
+16/01/2018 21:32:13 # go to Channel One
+16/01/2018 21:32:13 # go to Channel 100
+16/01/2018 21:32:13 # go to China One
+16/01/2018 21:32:13 # I go to Channel 1
+16/01/2018 21:32:13 # &
+17/01/2018 00:56:03 # turn off the TV
+17/01/2018 00:56:03 # &
+17/01/2018 14:54:56 # turn on the TV
+17/01/2018 14:54:56 # &
+17/01/2018 14:55:29 # play BBC Radio 1
+17/01/2018 14:55:29 # play BBC Radio One
+17/01/2018 14:55:29 # play BBC Radio 1.
+17/01/2018 14:55:29 # play BBC Radio 1 hour
+17/01/2018 14:55:29 # &
+17/01/2018 14:57:44 # play BBC Radio 1
+17/01/2018 14:57:44 # play BBC Radio One
+17/01/2018 14:57:44 # play BBC Radio 1.
+17/01/2018 14:57:44 # &
+17/01/2018 14:59:46 # play some BBC Radio 1
+17/01/2018 14:59:46 # play some BBC Radio One
+17/01/2018 14:59:46 # play Sum BBC Radio 1
+17/01/2018 14:59:46 # play Sum BBC Radio One
+17/01/2018 14:59:46 # &
+17/01/2018 15:01:30 # play BBC Radio 1
+17/01/2018 15:01:30 # play BBC Radio One
+17/01/2018 15:01:30 # play a BBC Radio 1
+17/01/2018 15:01:30 # play BBC Radio 1 hour
+17/01/2018 15:01:30 # &
+17/01/2018 15:02:54 # BBC Radio 1
+17/01/2018 15:02:54 # BBC Radio One
+17/01/2018 15:02:54 # BBC Radio 1.
+17/01/2018 15:02:54 # &
+17/01/2018 15:07:24 # BBC Radio 1
+17/01/2018 15:07:24 # BBC Radio One
+17/01/2018 15:07:24 # &
+17/01/2018 15:09:08 # turn on the TV
+17/01/2018 15:09:08 # &
+17/01/2018 15:11:44 # go to channel 6
+17/01/2018 15:11:45 # go to channel six
+17/01/2018 15:11:45 # go to Channel 6 News
+17/01/2018 15:11:45 # I go to channel 6
+17/01/2018 15:11:45 # go-to Channel 6
+17/01/2018 15:11:45 # &
+17/01/2018 15:12:03 # go to Channel 1
+17/01/2018 15:12:03 # go to Channel One
+17/01/2018 15:12:03 # go to China One
+17/01/2018 15:12:03 # go to Channel 100
+17/01/2018 15:12:03 # I go to Channel 1
+17/01/2018 15:12:03 # &
+17/01/2018 15:12:27 # turn TV off
+17/01/2018 15:12:27 # turn the TV off
+17/01/2018 15:12:27 # &
+17/01/2018 15:14:35 # go to Channel 1
+17/01/2018 15:14:35 # go to Channel One
+17/01/2018 15:14:35 # go to China One
+17/01/2018 15:14:35 # go to Channel 100
+17/01/2018 15:14:35 # I go to Channel 1
+17/01/2018 15:14:35 # &
+17/01/2018 15:16:32 # turn TV off
+17/01/2018 15:16:33 # turn the TV off
+17/01/2018 15:16:33 # &
+17/01/2018 15:17:27 # turn off TV
+17/01/2018 15:17:27 # turn off the TV
+17/01/2018 15:17:27 # turn off t v
+17/01/2018 15:17:27 # &
+17/01/2018 15:20:11 # Jeffrey play me some BBC Radio 1
+17/01/2018 15:20:11 # Jeffery play me some BBC Radio 1
+17/01/2018 15:20:11 # Geoffrey play me some BBC Radio 1
+17/01/2018 15:20:11 # Jeffree play me some BBC Radio 1
+17/01/2018 15:20:11 # Jeffrey play me some BBC Radio One
+17/01/2018 15:20:11 # &
+17/01/2018 16:46:01 # nude PC
+17/01/2018 16:46:01 # nood PC
+17/01/2018 16:46:01 # nuud PC
+17/01/2018 16:46:01 # newd PC
+17/01/2018 16:46:01 # nud PC
+17/01/2018 16:46:01 # &
+17/01/2018 16:46:10 # mute PC
+17/01/2018 16:46:10 # Newt PC
+17/01/2018 16:46:10 # Knute PC
+17/01/2018 16:46:10 # noot PC
+17/01/2018 16:46:10 # nute PC
+17/01/2018 16:46:10 # &
+17/01/2018 16:46:17 # unmute the PC
+17/01/2018 16:46:17 # unmute to the PC
+17/01/2018 16:46:17 # unmute the p c
+17/01/2018 16:46:17 # onion to the PC
+17/01/2018 16:46:17 # unmute the PCC
+17/01/2018 16:46:17 # &
+17/01/2018 16:46:29 # increase volume by 30%
+17/01/2018 16:46:29 # increase volume by 13%
+17/01/2018 16:46:29 # increase volume by 32%
+17/01/2018 16:46:29 # increase volume by 38%
+17/01/2018 16:46:29 # &
+17/01/2018 16:46:41 # set volume at 4
+17/01/2018 16:46:41 # set volume at full
+17/01/2018 16:46:41 # set volume up full
+17/01/2018 16:46:41 # set volume at.
+17/01/2018 16:46:41 # set volume up.
+17/01/2018 16:46:41 # &
+17/01/2018 16:46:51 # decrease volume by 50%
+17/01/2018 16:46:51 # decrease volume by 15%
+17/01/2018 16:46:51 # &
+17/01/2018 16:46:59 # decreasing by another 10% the volume
+17/01/2018 16:46:59 # did Crazy by another 10% the volume
+17/01/2018 16:46:59 # did Crazy by another 10% of volume
+17/01/2018 16:46:59 # decreasing by another 10% of volume
+17/01/2018 16:46:59 # the creation by another 10% the volume
+17/01/2018 16:46:59 # &
+17/01/2018 17:04:38 # open CD-ROM
+17/01/2018 17:04:38 # open CD ROM
+17/01/2018 17:04:38 # open CD room
+17/01/2018 17:04:38 # open CD Rome
+17/01/2018 17:04:38 # open c d Rome
+17/01/2018 17:04:38 # &
+17/01/2018 17:07:33 # open CD-ROM
+17/01/2018 17:07:33 # open CD ROM
+17/01/2018 17:07:33 # open CD Rome
+17/01/2018 17:07:33 # open c d Rome
+17/01/2018 17:07:33 # open CD Dome
+17/01/2018 17:07:33 # &
+17/01/2018 17:08:33 # open CD-ROM
+17/01/2018 17:08:33 # open CD ROM
+17/01/2018 17:08:33 # open CD Dome
+17/01/2018 17:08:33 # open cdrom
+17/01/2018 17:08:33 # open CD Down
+17/01/2018 17:08:33 # &
+17/01/2018 17:08:44 # close CD-ROM
+17/01/2018 17:08:44 # close CD ROM
+17/01/2018 17:08:44 # clothes CD-ROM
+17/01/2018 17:08:44 # closed CD ROM
+17/01/2018 17:08:44 # close the CD ROM
+17/01/2018 17:08:44 # &
+17/01/2018 17:08:51 # open CD-ROM
+17/01/2018 17:08:51 # open CD ROM
+17/01/2018 17:08:51 # open City Rome
+17/01/2018 17:08:51 # open City.
+17/01/2018 17:08:51 # open City Dome
+17/01/2018 17:08:51 # &
+17/01/2018 17:08:59 # close CD-ROM
+17/01/2018 17:08:59 # close CD ROM
+17/01/2018 17:08:59 # clothes CD-ROM
+17/01/2018 17:08:59 # close CD.
+17/01/2018 17:08:59 # closed CD ROM
+17/01/2018 17:08:59 # &
+17/01/2018 17:17:15 # play BBC Radio 1
+17/01/2018 17:17:15 # play BBC Radio One
+17/01/2018 17:17:15 # play BBC Radio 1.
+17/01/2018 17:17:15 # play BBC Radio 1 hour
+17/01/2018 17:17:15 # &
+17/01/2018 17:18:06 # decrease volume by 50%
+17/01/2018 17:18:06 # decrease the volume by 50%
+17/01/2018 17:18:06 # &
+22/01/2018 04:23:54 #  # alexxx # hello Jeffrey
+22/01/2018 04:23:54 #  # alexxx # hello Geoffrey
+22/01/2018 04:23:54 #  # alexxx # hello Jeffery
+22/01/2018 04:23:54 #  # alexxx # hello jeffry
+22/01/2018 04:23:54 #  # alexxx # hello Jeffree
+22/01/2018 04:23:54 #  # alexxx # &
+22/01/2018 04:30:08 #  # alexxx # hello Jeffrey
+22/01/2018 04:30:08 #  # alexxx # hello Geoffrey
+22/01/2018 04:30:08 #  # alexxx # hello Jeffery
+22/01/2018 04:30:08 #  # alexxx # hello jeffry
+22/01/2018 04:30:08 #  # alexxx # hello Jeffree
+22/01/2018 04:30:08 #  # alexxx # &
+22/01/2018 04:32:35 #  # alexxx # play BBC Radio 1
+22/01/2018 04:32:35 #  # alexxx # play BBC Radio One
+22/01/2018 04:32:35 #  # alexxx # play BBC Radio 1.
+22/01/2018 04:32:35 #  # alexxx # play BBC Radio 1 on
+22/01/2018 04:32:35 #  # alexxx # &
+22/01/2018 04:35:30 #  # alexxx # play BBC Radio 1
+22/01/2018 04:35:30 #  # alexxx # play BBC Radio One
+22/01/2018 04:35:30 #  # alexxx # play BBC Radio 1.
+22/01/2018 04:35:30 #  # alexxx # but play BBC Radio 1
+22/01/2018 04:35:30 #  # alexxx # play BBC Radio 1 on
+22/01/2018 04:35:30 #  # alexxx # &
